@@ -1,0 +1,15 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+}
+
+button {
+	width: 200px;
+	height: 30px;
+	margin: 5px;
+	font-weight: bold;
+}
+
+#number {
+	color: darkblue;
+}
