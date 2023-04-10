@@ -13,3 +13,9 @@ button {
 #number {
 	color: darkblue;
 }
+
+span {
+	font-weight: bold;
+	height: 30px;
+	margin: 5px;
+}
