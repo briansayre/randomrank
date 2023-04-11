@@ -45,7 +45,7 @@ function assignNumber() {
     if (i > minIdx && i < maxIdx) {
       buttons[i].style.backgroundColor = "#bad4bb";
     } else {
-      buttons[i].style.backgroundColor = "";
+      buttons[i].style.backgroundColor = "#dddddd";
     }
   }
   document.getElementById("number").innerHTML = bigNumberToStr();
