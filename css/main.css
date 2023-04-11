@@ -1,21 +1,30 @@
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
 body {
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-	text-align: center;
+  text-align: center;
 }
 
 button {
-	width: 200px;
-	height: 30px;
-	margin: 5px;
-	font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  width: 200px;
+  height: 30px;
+  margin: 3px;
+  font-weight: bold;
 }
 
 #number {
-	color: darkblue;
+  color: darkblue;
 }
 
 span {
-	font-weight: bold;
-	height: 30px;
-	margin: 5px;
+  font-weight: bold;
+  height: 30px;
+  padding: 3px;
+  white-space: normal;
+  display: inline-flex;
+  align-items: center;
 }
